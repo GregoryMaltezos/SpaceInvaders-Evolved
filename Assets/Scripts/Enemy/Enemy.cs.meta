@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 8eade19b909ccdf48870732d10e973de
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - DroppedLives: {fileID: 8253391019117288003, guid: 52fb96cc5555ec14082be62feb7ade36, type: 3}
+  - deathEffect: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
